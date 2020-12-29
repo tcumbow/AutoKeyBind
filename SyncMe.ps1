@@ -1,1 +1,1 @@
-unison .\AutoKeyBind A:\AutoKeyBind\ -auto -batch
+robocopy .\AutoKeyBind A:\AutoKeyBind /mir
