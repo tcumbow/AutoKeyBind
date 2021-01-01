@@ -22,7 +22,7 @@ end
 
 
 local function BindDesiredKeys()
-    BindSpecial("TOGGLE_GAMEPAD_MODE", 103) -- Backslash
+    -- disa
 end
 
 
