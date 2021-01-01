@@ -23,7 +23,7 @@ end
 
 local function BindDesiredKeys()
     -- BindSpecial("TOGGLE_GAMEPAD_MODE", 103) -- Backslash
-    BindSpecial("ROLL_DODGE",83) -- F10
+    BindSpecial("ROLL_DODGE",84) -- F10
 end
 
 
