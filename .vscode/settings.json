@@ -1,0 +1,16 @@
+{
+    "Lua.diagnostics.globals": [
+        "EVENT_MANAGER",
+        "zo_callLater",
+        "EVENT_ADD_ON_LOADED",
+        "GetNumActionLayers",
+        "GetActionLayerInfo",
+        "GetActionLayerCategoryInfo",
+        "GetActionInfo",
+        "CallSecureProtected"
+    ],
+    "cSpell.words": [
+        "GAMEPAD",
+        "Rebindable"
+    ]
+}
