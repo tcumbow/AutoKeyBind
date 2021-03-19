@@ -22,8 +22,11 @@ end
 
 
 local function BindDesiredKeys()
-    -- BindSpecial("TOGGLE_GAMEPAD_MODE", 103) -- Backslash
+    BindSpecial("TOGGLE_GAMEPAD_MODE", 102) -- right square bracket
+    BindSpecial("SHOW_HOUSING_PANEL",162) -- Y+B
     BindSpecial("ROLL_DODGE",84) -- F10
+    BindSpecial("CMX_REPORT_TOGGLE",45) -- n
+    BindSpecial("DUSTMAN_JUNK",30) -- 8
 end
 
 
