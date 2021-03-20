@@ -27,6 +27,8 @@ local function BindDesiredKeys()
     BindSpecial("ROLL_DODGE",84) -- F10
     BindSpecial("CMX_REPORT_TOGGLE",45) -- n
     BindSpecial("DUSTMAN_JUNK",30) -- 8
+    BindSpecial("RELOAD_UI_BINDING",99) -- -
+    BindSpecial("RELOAD",99) -- -
 end
 
 
